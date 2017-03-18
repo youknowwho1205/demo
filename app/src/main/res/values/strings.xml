@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="req_timed_out">Request Timed Out</string>
+    <string name="txt_navigate">NAVIGATE</string>
+    <string name="txt_mode_of_transport">Mode of Transparent :</string>
+</resources>
